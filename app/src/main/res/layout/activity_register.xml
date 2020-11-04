@@ -58,7 +58,7 @@
             android:id="@+id/btn_login2"
             android:backgroundTint="@color/white"
             android:textColor="@color/purple_500"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="35dp"
             android:gravity="center_horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
